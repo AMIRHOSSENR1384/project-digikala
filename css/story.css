@@ -1,0 +1,29 @@
+.story {
+  width: 100%;
+  height: 150px;
+  text-align: center;
+}
+.story div {
+  width: auto;
+  display: inline-block;
+  margin-right: 75px;
+  margin-top: 26px;
+}
+.story div img {
+  width: 75px;
+  height: 75px;
+  border-radius: 50%;
+  display: inline-block;
+  outline: 3px solid crimson;
+  outline-offset: 3px;
+  margin-bottom: 7px;
+}
+.story div h4 {
+  color: rgb(51, 51, 51);
+  font-family: yekan;
+  font-size: 13px;
+  font-weight: 300;
+}
+.story div a {
+  text-decoration: none;
+}

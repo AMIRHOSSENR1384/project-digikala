@@ -1,0 +1,13 @@
+.img1 {
+  width: 100%;
+  height: 242px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.img1 img {
+  margin-right: 18px;
+  margin-top: 25px;
+  width: 322px;cursor: pointer;
+  height: 242px;
+}

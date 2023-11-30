@@ -1,0 +1,30 @@
+.amazing {
+  width: 100%;
+  height: 350px;
+  
+  padding: 25px;
+  box-sizing: border-box;
+}
+.amazing .mySwiper2 {
+  width: 80%;
+  margin: 0 auto;
+  background-color: crimson;
+  padding: 10px;
+  box-sizing: border-box;
+  height: 300px;
+  border-radius: 16px;
+  border-left: 2px solid crimson;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.amazing .mySwiper2 .swiper-slide .pruductss img {
+  position: relative;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin-right: 25px;
+}
+.amazing .mySwiper2 .swiper-slide .pruductss .text {
+  position: absolute;left: 5px;
+}
+.amazing .mySwiper2 .swiper-slide .pruductss .text span.price{position: absolute;left: 0px;}
